@@ -18,7 +18,7 @@
 <div align="center">
 
   <a href="https://github.com/OraclYT/aihire-demo">
-    <img src="images/logo.png" alt="Logo" width="130" height="100">
+    <img src="images/logo.png" alt="Logo" width="100" height="100">
   </a> 
 
 
@@ -44,74 +44,67 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![AI-Hire Screen Shot][product-screenshot]](https://youtu.be/zjhYZU-olpo)
-
-[![AI-Hire Screen Shot 2][product-screenshot-2]](https://youtu.be/zjhYZU-olpo)
+<table>
+  <tr>
+      <th>
+        <img src="images/ss1.png" alt="Logo" width="350">
+      </th>
+     <th>
+        <img src="images/ss0.png" alt="Logo" width="350">
+      </th>
+     <th>
+        <img src="images/ss2.png" alt="Logo" width="350">
+      </th>
+  </tr>
+</table>
 
 ### Built With
 
 * [![flutter][flutter.js]][Next-url]
 * [![html][html.js]][Next-url]
 * [![chat][chat.js]][Next-url]
-<!--
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
--->
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-The AI-Enhanced Virtual Interview Platform is an innovative mobile application developed using the Flutter framework. This application serves as a comprehensive solution for conducting face-to-face virtual interviews, utilizing advanced artificial intelligence (AI) technologies to enhance the interview experience and evaluate candidates more effectively.
+The **AI-Enhanced** Virtual Interview Platform is an innovative mobile application developed using the **Flutter** framework. This application serves as a comprehensive solution for conducting **face-to-face** virtual interviews, utilizing advanced artificial intelligence (**AI**) technologies to enhance the interview experience and **evaluate candidates** more effectively.
 
 ### Features
 
 
 1. `Virtual Interviews`:
 
-The app allows users to participate in virtual interviews from the comfort of their own space. Users can choose from a range of predefined interview scenarios or customize their own.
+The app allows users to **participate** in virtual interviews from the comfort of their **own** **space**.
 
-2. `AI Interviewer with Face and Voice Analysis`:
+2. `Device Sensor Integration`:
 
-The app integrates an AI Interviewer that uses facial expression analysis and voice tone recognition to assess candidate responses. The AI Interviewer provides real-time feedback on the candidate's non-verbal cues and voice modulation.
+The application leverages device sensors such as the **camera** and microphone to capture the **user's** **facial** expressions, voice, and gestures during the interview process. This data is then **analyzed** by the AI Interviewer.
 
-3. `Device Sensor Integration`:
+3. `AI Prompting using ChatGPT - 3.5`:
 
-The application leverages device sensors such as the camera and microphone to capture the user's facial expressions, voice, and gestures during the interview process. This data is then analyzed by the AI Interviewer.
+The app employs the cutting-edge **ChatGPT - 3.5** model to provide AI-powered interview prompts.
 
-4. `AI Prompting using ChatGPT - 3.5`:
+4. `In-Depth Interview Reports`:
 
-The app employs the cutting-edge ChatGPT - 3.5 model to provide AI-powered interview prompts. The AI Interviewer asks insightful questions based on the candidate's responses and provides a more engaging interview experience.
+After the interview concludes, the app generates a **detailed report** that includes an analysis of the candidate's **performance**. The report highlights strengths, areas for improvement, and suggestions for enhancing interview skills.
 
-5. `In-Depth Interview Reports`:
+5. `User-Friendly Interface`:
 
-After the interview concludes, the app generates a detailed report that includes an analysis of the candidate's performance. The report highlights strengths, areas for improvement, and suggestions for enhancing interview skills.
-
-6. `Customizable Interview Scenarios`:
-
-Recruiters can tailor interview scenarios to match specific job roles, ensuring that candidates are evaluated based on relevant criteria.
-
-7. `User-Friendly Interface`:
-
-The app features an intuitive and user-friendly interface, making it easy for both candidates and interviewers to navigate through the interview process.
+The app features an intuitive and **user-friendly interface**, making it easy for both candidates and interviewers to navigate through the interview process.
 
    
 
 <!-- Target audience -->
 ## Conclusion
 
-The AI-Enhanced Virtual Interview Platform is designed to revolutionize the interview process by combining advanced AI technologies with the convenience of a mobile application. This project showcases the capabilities of Flutter and the powerful AI capabilities of ChatGPT - 3.5 to create a seamless and insightful interview experience for both candidates and recruiters.
+The AI-enhanced virtual Interview Platform is designed to **revolutionize** the interview process by combining advanced AI technologies with the convenience of a **mobile application**. This project showcases the capabilities of Flutter and the powerful **AI** capabilities of ChatGPT - 3.5 to create a seamless and insightful interview experience for both candidates and recruiters.
 
 <!-- CONTACT -->
 ## Contact
 
-Bhargav Singh Barad - [@linkedin](https://www.linkedin.com/in/bhargav-singh-barad/) - bhargavsinghbarad007@gmail.com
+**Bhargav Singh Barad** - [@linkedin](https://www.linkedin.com/in/bhargav-singh-barad/) - bhargavsinghbarad007@gmail.com
 
 Project Demo Link: [Video Demo](https://youtube.com/playlist?list=PLpSi8Gwi0z9nyUyJVV74FNBRccZhwmUbg)
 
